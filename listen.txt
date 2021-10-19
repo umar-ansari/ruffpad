@@ -1,0 +1,7 @@
+Opened connections:
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      1148/sshd
+tcp        0      0 0.0.0.0:16379           0.0.0.0:*               LISTEN      1015/redis-server 0
+tcp        0      0 0.0.0.0:5666            0.0.0.0:*               LISTEN      1267/nrpe
+tcp        0      0 0.0.0.0:17379           0.0.0.0:*               LISTEN      1014/redis-server 0
+tcp        0      0 0.0.0.0:6379            0.0.0.0:*               LISTEN      1015/redis-server 0
+tcp        0      0 0.0.0.0:7379            0.0.0.0:*               LISTEN      1014/redis-server 0
